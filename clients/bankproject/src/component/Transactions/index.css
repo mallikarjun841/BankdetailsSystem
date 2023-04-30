@@ -1,0 +1,59 @@
+.homecontainer {
+  background-image: url("https://assets.ccbp.in/frontend/react-js/home-lg-bg.png");
+  background-size: cover;
+  height: 90vh;
+  width: 100%;
+  color: white;
+  font-family: "Roboto";
+  display: flex;
+  flex-direction: column;
+}
+.findjobbutton {
+  padding: 13px 23px;
+  border: none;
+  border-radius: 6px;
+  background-color: #6366f1;
+  color: white;
+  font-weight: 600;
+  margin: 5px;
+}
+
+.transaction-container {
+  background-color: red;
+  width: 80%;
+}
+.buttoncontainer {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  flex-wrap: wrap;
+}
+.subhomecontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cartcontainer {
+  background-color: aliceblue;
+}
+.popup-content {
+  background-color: aliceblue;
+  width: 370px;
+  height: 210px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inputcontainer {
+  display: flex;
+  flex-direction: column;
+}
+.input {
+  height: 30px;
+  margin-bottom: 7px;
+  width: 100%;
+}
+.popmaincontainer {
+  width: 70%;
+}

@@ -1,0 +1,10 @@
+.listdata {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+  border: 1px solid silver;
+}
+.time {
+  text-align: start;
+}
